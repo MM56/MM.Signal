@@ -1,0 +1,28 @@
+{
+  "name": "MM.Signal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Signal.js",
+  "dependencies": {
+    "jasmine": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MM56/MM.Signal"
+  },
+  "keywords": [
+    "signal",
+    "javascript",
+    "Merci-Michel"
+  ],
+  "author": "Merci-Michel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MM56/MM.Signal/issues"
+  },
+  "homepage": "https://github.com/MM56/MM.Signal"
+}
